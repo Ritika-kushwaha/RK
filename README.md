@@ -7,8 +7,6 @@
 
 # 👋 Hi, I'm Ritika Kushwaha
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;Google+Summer+of+Code+2025+Contributor;Java+Developer;React+%7C+AWS+%7C+Unity;Always+Learning+New+Things+🚀" />
-
 <p>
 <a href="https://github.com/Ritika-Kushwaha">
 <img src="https://img.shields.io/github/followers/Ritika-Kushwaha?style=for-the-badge&logo=github"/>
@@ -77,7 +75,7 @@ public class Ritika {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,react,ts,nodejs,firebase,mysql,aws,git,github,vscode,unity,blender"/>
+<img src="https://skillicons.dev/icons?i=java,python,react,ts,nodejs,firebase,mysql,aws,github,vscode,unity,blender"/>
 
 </p>
 
@@ -124,17 +122,7 @@ Community Platform
 - React
 - Firebase
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritika-Kushwaha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Kushwaha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -153,15 +141,7 @@ Community Platform
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Kushwaha&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ritika-Kushwaha&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
 
 ---
 
