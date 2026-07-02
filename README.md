@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner">
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,00C6FF&height=220&section=header&text=Ritika%20Kushwaha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Google%20Summer%20of%20Code%202025%20Contributor&descAlignY=60"/>
